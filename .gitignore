@@ -1,0 +1,22 @@
+# Fichiers temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Dossier de travail et résultats
+images_input/
+resultat.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# Nettoyage
+dist/
+build/
+*.egg-info/
